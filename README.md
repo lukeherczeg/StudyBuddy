@@ -9,11 +9,11 @@ ________________________________________________________________________________
 _____________________________________________________________________________________________________________________________________
 
 ## Description
-  Study Buddy is a mobile application that facilitates finding
-  study partners. Study Buddy will allow users to make and
-  view postings for study groups. Users will be able to search
+  Study Buddy is a mobile application that demystifies the process
+  of finding study partners. Study Buddy allows users to make and
+  view postings for study groups. Users can search
   for others currently studying the same material around
-  them. They will then be able to join a chat to arrange the
+  them. They can then chat each other to arrange the
   logistics of an in-person meetup.
   
 ## Background
@@ -22,8 +22,11 @@ ________________________________________________________________________________
   interaction between students, which can put a huge damper
   on students who prefer to study with others. Some people
   prefer to study with others, but find it difficult
-  to network with people in their classes. Thus, we decided to
-  design our app around finding study partners.
+  to network with people in their classes. So, we conducted
+  significant research to make sure our app was as helpful as
+  possible, and then we created it to the best of our ability.
+  
+  A full report can be found [here](https://docs.google.com/document/d/1ZAbStkv9YlEZ7WJG1THaraWf9WjApJeXX7JsUfNspGU/edit?usp=sharing "Full Report").
 _______________________________________________________________________________________________________________________________________
 
 ## Features Implemented: 
