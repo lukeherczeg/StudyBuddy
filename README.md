@@ -10,7 +10,7 @@ ________________________________________________________________________________
   of finding study partners. Study Buddy allows users to make and
   view postings for study groups. Users can search
   for others currently studying the same material around
-  them. They can then chat each other to arrange the
+  them, and then they can chat each other to arrange the
   logistics of an in-person meetup.
   
 ## Background
