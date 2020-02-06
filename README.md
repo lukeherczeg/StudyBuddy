@@ -3,7 +3,7 @@
 ### Created by: Luke Herczeg, Samantha Lieberman, Steven Polk, Zander Krasny
 _______________________________________________________________________________________________________________________________________
 
-## [Demo Video](https://youtu.be/TmbUX4ZnvnU "Demo")
+## [Video Demo](https://youtu.be/TmbUX4ZnvnU "Demo")
 
 ## Description
   Study Buddy is a mobile application that demystifies the process
